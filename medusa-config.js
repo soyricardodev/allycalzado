@@ -87,4 +87,8 @@ module.exports = {
   projectConfig,
   plugins,
   modules,
+  featureFlags: {
+    product_categories: true,
+    
+  }
 };
